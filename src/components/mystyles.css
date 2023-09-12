@@ -1,0 +1,25 @@
+.navbar{
+    z-index: 10;
+}
+.card-header{
+    height:50px
+}
+.dashboard-icon{
+    float: right;
+}
+.container-fluid{
+    z-index: -10;
+}
+@media (min-width:991px) {
+    .card1{
+        width: 70%;
+    }
+}
+@media (max-width:990px) {
+    .card1{
+        width:100%
+    }
+}
+.textarea{
+    height:100px;
+}
